@@ -52,6 +52,7 @@ Our global mission is to promote, educate and advance a diverse Python community
 
 Check our <a href="https://www.meetup.com/pyladies-brussels/" target="_blank">Meetup page</a> for the latest events!
 
+
 ## Repository Structure 📁
 
 ```
@@ -67,8 +68,7 @@ pyladies-brussels/
 ### For Beginners
 1. Join our <a href="https://www.meetup.com/pyladies-brussels/" target="_blank">Meetup group</a>
 2. Attend a workshop or event
-3. Connect with us on Discord
-4. Check out our [learning resources](/resources/)
+3. Check out our [learning resources](/resources/)
 
 ### For Contributors
 1. Fork this repository
