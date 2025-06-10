@@ -5,8 +5,8 @@ Selection of useful resources as well as slides, exercises and materials from ou
 <div align="center">
 
 ![PyLadies Brussels](https://img.shields.io/badge/PyLadies-Brussels-ff69b4?style=for-the-badge)
-[![Meetup](https://img.shields.io/badge/Meetup-PyLadies%20Brussels-red?style=for-the-badge&logo=meetup)](https://www.meetup.com/pyladies-brussels/)
-[![Global PyLadies](https://img.shields.io/badge/Part%20of-PyLadies%20Global-purple?style=for-the-badge)](https://pyladies.com/)
+<a href="https://www.meetup.com/pyladies-brussels/" target="_blank"><img src="https://img.shields.io/badge/Meetup-PyLadies%20Brussels-red?style=for-the-badge&logo=meetup" alt="Meetup"></a>
+<a href="https://pyladies.com/" target="_blank"><img src="https://img.shields.io/badge/Part%20of-PyLadies%20Global-purple?style=for-the-badge" alt="Global PyLadies"></a>
 
 **Empowering women and gender minorities in Python & tech in Brussels** 🌟
 
@@ -20,7 +20,7 @@ Selection of useful resources as well as slides, exercises and materials from ou
 
 Bienvenue à PyLadies Bruxelles ! 
 
-Nous sommes une antenne locale de [PyLadies Global](https://pyladies.com/), une organisation internationale à but non lucratif qui promeut la diversité et l'inclusion au sein de la communauté Python. À travers l'organisation d'ateliers, d'événements et de rencontres sociales, nous visons à créer un espace accueillant et bienveillant pour les femmes et les minorités sous-représentées afin qu'elles apprennent, progressent et s'épanouissent dans la programmation Python.
+Nous sommes une antenne locale de <a href="https://pyladies.com/" target="_blank">PyLadies Global</a>, une organisation internationale à but non lucratif qui promeut la diversité et l'inclusion au sein de la communauté Python. À travers l'organisation d'ateliers, d'événements et de rencontres sociales, nous visons à créer un espace accueillant et bienveillant pour les femmes et les minorités sous-représentées afin qu'elles apprennent, progressent et s'épanouissent dans la programmation Python.
 
 ---
 
@@ -43,38 +43,33 @@ Our global mission is to promote, educate and advance a diverse Python community
 
 ### 🔹 **Community Events**
 
-
 ### 🔹 **Multilingual Environment**
 - Events in French or English based on audience preference
 - Inclusive space for all backgrounds and skill levels
 
 ### 🔹 **Mentorship & Support**
 - Connect with experienced Python developers
-- Get help with coding challenges
-- Career guidance and advice
 
 ## Upcoming Events 📅
 
-Check our [Meetup page](https://www.meetup.com/pyladies-brussels/) for the latest events!
+Check our <a href="https://www.meetup.com/pyladies-brussels/" target="_blank">Meetup page</a> for the latest events!
 
 ## Repository Structure 📁
 
 ```
 pyladies-brussels/
-├── Resources/              # Workshop materials and slides
+├── resources/              # Workshop materials and slides
 ├── community/              # Community guidelines and info
 ├── assets/                 # Images, logos, and media
 └── CODE_OF_CONDUCT.md     # Our community guidelines
-
 ```
 
 ## Getting Started 🌱
 
 ### For Beginners
-1. Join our [Meetup group](https://www.meetup.com/pyladies-brussels/)
+1. Join our <a href="https://www.meetup.com/pyladies-brussels/" target="_blank">Meetup group</a>
 2. Attend a workshop or event
-3. Connect with us on Discord
-4. Check out our [pyladiesbrussels](/resources/)
+3. Check out our [learning resources](/resources/)
 
 ### For Contributors
 1. Fork this repository
@@ -156,6 +151,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with 💜 by PyLadies Brussels**
 
 *Part of the global PyLadies community since 2024*
+
+[![PyLadies](https://img.shields.io/badge/Part%20of-PyLadies%20Global-purple?style=flat-square)](https://pyladies.com/)
+[![Brussels](https://img.shields.io/badge/Based%20in-Brussels,%20Belgium-yellow?style=flat-square)](#)
+
+</div>
 
 [![PyLadies](https://img.shields.io/badge/Part%20of-PyLadies%20Global-purple?style=flat-square)](https://pyladies.com/)
 [![Brussels](https://img.shields.io/badge/Based%20in-Brussels,%20Belgium-yellow?style=flat-square)](#)
