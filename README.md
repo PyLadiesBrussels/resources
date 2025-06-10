@@ -81,7 +81,6 @@ Read our full <a href="https://www.meetup.com/pyladies-brussels/" target="_blank
 
 ### Join Our Community
 - 🎪 **Meetup:** [PyLadies Brussels](https://www.meetup.com/pyladies-brussels/)
-- 💬 **Discord:** Join our chat community
 - 📧 **Email:** brussels[at]pyladies[dot]com
 
 ### Ways to Contribute
@@ -103,25 +102,11 @@ Interested in sharing your knowledge? We welcome:
 ## Partners & Sponsors 🤝
 
 ### Venue Partners
-- **[Interface3](https://interface3.be/)** - Hosting our workshops in Brussels
+
+- Hosting our workshops in Brussels
 
 *Interested in partnering with us? Get in touch!*
 
-## Learning Resources 📚
-
-### Beginner Resources
-- [Official Python Tutorial](https://docs.python.org/3/tutorial/)
-- [Real Python](https://realpython.com/) - Comprehensive tutorials
-- [Python.org Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-
-### Practice Platforms
-- [Codecademy](https://www.codecademy.com/learn/learn-python-3)
-- [freeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
-- [LeetCode](https://leetcode.com/) - Coding challenges
-
-### Local Resources
-- [Interface3](https://interface3.be/) - Digital literacy and programming courses
-- Belgian Python communities and user groups
 
 ## License 📄
 
@@ -131,7 +116,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Email:** brussels[at]pyladies[dot]com
 - **Meetup:** [PyLadies Brussels](https://www.meetup.com/pyladies-brussels/)
-- **Global PyLadies:** [pyladies.com](https://pyladies.com/)
 
 ---
 
