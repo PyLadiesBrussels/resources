@@ -52,17 +52,6 @@ Our global mission is to promote, educate and advance a diverse Python community
 
 Check our <a href="https://www.meetup.com/pyladies-brussels/" target="_blank">Meetup page</a> for the latest events!
 
-
-## Repository Structure 📁
-
-```
-pyladies-brussels/
-├── resources/              # Workshop materials and slides
-├── community/              # Community guidelines and info
-├── assets/                 # Images, logos, and media
-└── CODE_OF_CONDUCT.md     # Our community guidelines
-```
-
 ## Getting Started 🌱
 
 ### For Beginners
@@ -85,7 +74,8 @@ PyLadies Brussels is dedicated to providing a harassment-free experience for eve
 - **Be Considerate** - Respect others' time, effort, and experiences  
 - **Be Respectful** - Treat everyone with dignity and kindness
 
-Read our full [Code of Conduct](CODE_OF_CONDUCT.md) for detailed guidelines.
+Read our full <a href="https://www.meetup.com/pyladies-brussels/" target="_blank">code of conduct</a>  for detailed guidelines.
+
 
 ## Get Involved 💫
 
