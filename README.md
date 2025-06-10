@@ -48,22 +48,6 @@ Our global mission is to promote, educate and advance a diverse Python community
 ### 🔹 **Mentorship & Support**
 - Connect with experienced Python developers
 
-## Upcoming Events 📅
-
-Check our <a href="https://www.meetup.com/pyladies-brussels/" target="_blank">Meetup page</a> for the latest events!
-
-## Getting Started 🌱
-
-### For Beginners
-1. Join our <a href="https://www.meetup.com/pyladies-brussels/" target="_blank">Meetup group</a>
-2. Attend a workshop or event
-3. Check out our [learning resources](/resources/)
-
-### For Contributors
-1. Fork this repository
-2. Create a branch for your contribution
-3. Submit a pull request
-4. Follow our [contribution guidelines](/CONTRIBUTING.md)
 
 ## Code of Conduct 🤝
 
@@ -76,12 +60,20 @@ PyLadies Brussels is dedicated to providing a harassment-free experience for eve
 
 Read our full <a href="https://www.meetup.com/pyladies-brussels/" target="_blank">code of conduct</a>  for detailed guidelines.
 
+## Upcoming Events 📅
+
+Check our <a href="https://www.meetup.com/pyladies-brussels/" target="_blank">Meetup page</a> for the latest events!
 
 ## Get Involved 💫
 
 ### Join Our Community
 - 🎪 **Meetup:** [PyLadies Brussels](https://www.meetup.com/pyladies-brussels/)
 - 📧 **Email:** brussels[at]pyladies[dot]com
+
+### For Beginners
+1. Join our <a href="https://www.meetup.com/pyladies-brussels/" target="_blank">Meetup group</a>
+2. Attend a workshop or event
+3. Check out our [learning resources](/resources/)
 
 ### Ways to Contribute
 - **Attend Events** - Join our workshops and meetups
