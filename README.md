@@ -1,14 +1,3 @@
-<div align="center">
-
-**Made with 💜 by PyLadies Brussels**
-
-*Part of the global PyLadies community since 2024*
-
-[![PyLadies](https://img.shields.io/badge/Part%20of-PyLadies%20Global-purple?style=flat-square)](https://pyladies.com/)
-[![Brussels](https://img.shields.io/badge/Based%20in-Brussels,%20Belgium-yellow?style=flat-square)](#)
-
-</div> # resources
-Selection of useful resources as well as slides, exercises and materials from our workshops.
 # PyLadies Brussels 🐍💜
 
 <div align="center">
@@ -78,7 +67,8 @@ pyladies-brussels/
 ### For Beginners
 1. Join our <a href="https://www.meetup.com/pyladies-brussels/" target="_blank">Meetup group</a>
 2. Attend a workshop or event
-3. Check out our [learning resources](/resources/)
+3. Connect with us on Discord
+4. Check out our [learning resources](/resources/)
 
 ### For Contributors
 1. Fork this repository
