@@ -115,8 +115,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with 💜 by PyLadies Brussels**
 
-</div>
-
 [![PyLadies](https://img.shields.io/badge/Part%20of-PyLadies%20Global-purple?style=flat-square)](https://pyladies.com/)
 [![Brussels](https://img.shields.io/badge/Based%20in-Brussels,%20Belgium-yellow?style=flat-square)](#)
 
